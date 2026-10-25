@@ -246,7 +246,7 @@ const Login = () => {
             paddingTop: '16px'
           }}>
             <IconMapPin size={15} />
-            <span>Brgy. Malingin, Bogo City, Cebu 6010</span>
+            <span> Malingin, Bogo City, Cebu 6010</span>
           </div>
         </div>
 

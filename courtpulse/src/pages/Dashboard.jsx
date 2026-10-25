@@ -1,3 +1,4 @@
+
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { fetchSchedule, fetchUserReservations, createReservation, cancelReservation } from '../api/reservations';
 import { useAuth } from '../context/AuthContext';
@@ -1356,5 +1357,6 @@ const Dashboard = () => {
     </div>
   );
 };
+
 
 export default Dashboard;
